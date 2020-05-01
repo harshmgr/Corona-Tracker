@@ -1,6 +1,6 @@
 # covid Tracker
-![world](world.png)
-![track](track.png)
+![world](images/world.png)
+![track](images/india.png)
 
  
 
